@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;&apos; to &apos;com.gyanweiser.boot.starter.dto.LoginResponse.equals(...)&apos;&#x0D;&#x0A;- Original project: &apos;spring-boot-starter&apos;&#x0D;&#x0A;- Destination element: &apos;com.gyanweiser.boot.starter.dto.LoginResponse.equals(...)&apos;&#x0D;&#x0A;- Original element: &apos;com.gyanweiser.boot.starter.dto.LoginResponse.equals(...)&apos;" description="Copy method" destination="/src\/main\/java&lt;com.gyanweiser.boot.starter.dto{LoginResponse.java[LoginResponse~equals~Qjava.lang.Object;" element1="/src\/main\/java&lt;com.gyanweiser.boot.starter.dto{LoginResponse.java[LoginResponse~equals~Qjava.lang.Object;" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1545225711025" version="1.0"/>
+</session>

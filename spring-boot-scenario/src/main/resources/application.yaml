@@ -1,0 +1,5 @@
+# changing server port
+server:
+  port: 3000
+  servlet:
+    context-path: /bootapp/api/v1
